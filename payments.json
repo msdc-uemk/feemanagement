@@ -1,0 +1,12 @@
+[
+  {
+    "student_id": "1234",
+    "fee_type": "sem",
+    "amount": "95000",
+    "payment_date": "2025-10-24",
+    "payment_method": "Online",
+    "payment_id": "PAY000001",
+    "student_name": "DIPAYAN SAHA",
+    "status": "Paid"
+  }
+]

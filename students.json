@@ -1,0 +1,26 @@
+[
+  {
+    "student_id": "1234",
+    "name": "DIPAYAN SAHA",
+    "email": "dipayan0921@gmail.com",
+    "phone": "08927257018",
+    "course": "cse",
+    "year": "2"
+  },
+  {
+    "student_id": "86547",
+    "name": "Ankur pakira",
+    "email": "ankur3@gmail.com",
+    "phone": "8954561232",
+    "course": "cse(iot)",
+    "year": "2"
+  },
+  {
+    "student_id": "236541",
+    "name": "Sreshtha Saha",
+    "email": "sreshtha5@gmail.com",
+    "phone": "6532987414",
+    "course": "cse DS",
+    "year": "1"
+  }
+]
